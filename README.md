@@ -161,6 +161,13 @@ Each finding should include the metric, relevant filters, and its business impli
 
 
 ## Author
-Mahitha Kalinathabotla
-[LinkedIn](https://www.linkedin.com/in/mahitha-kalinathabotla)
+
+**Mahitha Kalinathabotla**
+
+Master of Science in Business Analytics  
+University at Albany, SUNY
+
+Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).
+
+---
 
