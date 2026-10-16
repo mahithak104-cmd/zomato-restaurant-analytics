@@ -1,14 +1,14 @@
-# 🍽️ Zomato Restaurant Analytics
+# Zomato Restaurant Analytics
 
 An end-to-end data analytics project using **Python, MySQL, and Tableau** to explore restaurant distribution, customer ratings, pricing, cuisine trends, and service availability.
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes restaurant data to identify patterns in restaurant distribution, customer ratings, average cost, cuisine popularity, and online delivery and table-booking availability.
 
 The project combines Python-based exploratory data analysis, SQL-driven business analysis, and Tableau dashboarding to transform restaurant data into actionable insights.
 
-## 🎯 Business Objectives
+## Business Objectives
 
 - Analyze restaurant distribution across cities and markets.
 - Identify popular cuisines and compare restaurant ratings.
@@ -17,7 +17,7 @@ The project combines Python-based exploratory data analysis, SQL-driven business
 - Identify highly rated restaurants using ratings and customer votes.
 - Develop a dashboard to communicate key restaurant-market metrics.
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -31,7 +31,7 @@ The project combines Python-based exploratory data analysis, SQL-driven business
 
 The original SQL script, Jupyter notebook, Tableau workbook, and approved dataset should be added to their corresponding folders after security and data-source checks.
 
-## 🗄️ Database Design
+## Database Design
 
 The MySQL database uses a fact-and-dimension structure.
 
@@ -43,7 +43,7 @@ The MySQL database uses a fact-and-dimension structure.
 
 The SQL analysis uses joins across these tables to support restaurant performance reporting.
 
-## 🔍 Key Analytical Questions
+## Key Analytical Questions
 
 ### Restaurant Distribution
 - Which cities have the largest number of restaurants?
@@ -68,7 +68,7 @@ The SQL analysis uses joins across these tables to support restaurant performanc
 - How many offer table booking?
 - How does the availability of these services relate to ratings and customer votes?
 
-## 💻 SQL Techniques
+## SQL Techniques
 
 The project demonstrates:
 
@@ -81,7 +81,7 @@ The project demonstrates:
 - Views for reusable reporting datasets
 - Data-quality checks for duplicate IDs, missing names, and invalid numeric values
 
-## 🐍 Python Analysis
+## Python Analysis
 
 Python is used for exploratory data analysis and visualization.
 
@@ -100,7 +100,7 @@ The Tableau workbook includes visual analysis of restaurant counts, city-level r
 
 The Tableau data source should be documented clearly and reconciled with the MySQL reporting data before the final dashboard is published.
 
-## ✅ Data Quality and Validation
+## Data Quality and Validation
 
 The project includes checks for:
 
@@ -119,7 +119,7 @@ Restaurants with an aggregate rating of `0` are treated as unrated for average-r
 
 The dataset includes multiple country codes and currencies. Average cost comparisons should be restricted to a common market or currency unless a documented currency-conversion method is applied.
 
-## 📈 Key Findings
+## Key Findings
 
 Add verified findings here after reconciling the MySQL, Python, CSV, and Tableau outputs.
 
@@ -130,7 +130,7 @@ Add verified findings here after reconciling the MySQL, Python, CSV, and Tableau
 
 Each finding should include the metric, relevant filters, and its business implication.
 
-## 🚀 How to Reproduce
+## How to Reproduce
 
 ### MySQL
 1. Create or select the `zomato_project` database.
@@ -152,7 +152,7 @@ Each finding should include the metric, relevant filters, and its business impli
 4. Validate the headline metrics against the SQL results.
 5. Export screenshots of the final dashboard to the `images/` folder.
 
-## ⚠️ Limitations
+## Limitations
 
 - The analysis is descriptive and does not establish causal relationships.
 - Ratings and customer votes reflect the supplied dataset rather than necessarily representing current restaurant performance.
@@ -160,5 +160,5 @@ Each finding should include the metric, relevant filters, and its business impli
 - Restaurant rankings depend on the rating, vote-count, and tie-breaking rules used.
 
 
-## 👤 Author
+## Author
 Mahitha Kalinathabotla
