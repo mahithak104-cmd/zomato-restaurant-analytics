@@ -162,3 +162,5 @@ Each finding should include the metric, relevant filters, and its business impli
 
 ## Author
 Mahitha Kalinathabotla
+[LinkedIn](https://www.linkedin.com/in/mahitha-kalinathabotla)
+
