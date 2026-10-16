@@ -159,15 +159,6 @@ Each finding should include the metric, relevant filters, and its business impli
 - Costs across different currencies are not directly comparable without normalization.
 - Restaurant rankings depend on the rating, vote-count, and tie-breaking rules used.
 
+## Connect with Me
 
-## Author
-
-**Mahitha Kalinathabotla**
-
-Master of Science in Business Analytics  
-University at Albany, SUNY
-
-Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
